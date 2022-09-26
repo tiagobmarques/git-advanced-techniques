@@ -1,5 +1,7 @@
 Aqui vai o primeiro texto
 
+Aqui vai o segundo texto
+
 Terceira linha que vem da main
 
 Quarta linha que vem da main
